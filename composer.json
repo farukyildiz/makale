@@ -1,0 +1,14 @@
+{
+    "name": "farukakinsamed/makale",
+    "description": "Makale Blog Modul",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "farukyildiz",
+            "email": "farukyildiz.079@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
